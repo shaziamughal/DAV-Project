@@ -26,7 +26,7 @@ The EDA performs an in-depth exploratory data analysis on the knowledge graph da
 
 **Bar Plot - Top 10 Most Common Relations**
 
-![Bar Plot - Relations](images/bar_plot_relations.png)
+![Bar Plot - Relations](images/nongraphic.png)
 
 **Bar Plot - Top 10 Most Common Entities**
 
