@@ -81,11 +81,15 @@ Converts raw dataset entries into structured (Source, Relation, Target) triplets
 - Analysis
 - Machine learning tasks
 
+![Triplet Extraction](images/TE.png)
+
 ---
 
 ## Task 5: Predict Most Relevant Relation
 
 Develops a prediction script using **fuzzy string matching** (via `fuzzywuzzy`) to infer the most likely relation between any two user-provided entities.
+
+![Predict Most Relevant Relation](images/predict.png)
 
 ---
 
