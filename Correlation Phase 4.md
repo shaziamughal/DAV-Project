@@ -18,7 +18,7 @@ This report outlines attempts to adapt the dataset for correlation analysis by c
 
 The following steps were performed:
 
-- **Feature Extraction**:
+- **Feature Extraction**:   
   - Selected the `source`, `target`, and `relation` columns.
   - Converted them into frequency-based numerical features using a bag-of-words approach.
 
